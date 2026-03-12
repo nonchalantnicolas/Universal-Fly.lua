@@ -8,7 +8,7 @@
 
 -- « 3/10/26 » update 3! added buttons so you can easily change fly speed by 10. also added professor paws (the cat) 
 
--- « 3/11/26 » update 4! added floating particles effect to the GUI, GUI now always spawns centered on screen, and the script wont run twice anymore to prevent duplicates
+-- « 3/11/26 » update 4! added floating particles effect to the GUI (not my code), GUI now always spawns centered on screen, and the script wont run twice anymore to prevent duplicates
 
 -- ^^^ if you want the code for the particles as i explained it isn't my code, here it is: https://pastebin.com/raw/Ku5Vmwxa
 
